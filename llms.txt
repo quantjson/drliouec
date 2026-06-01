@@ -17,7 +17,7 @@
 - 證照：PMP、ISO 27001 主導稽核員、ISO 42001 主導稽核員、ISO/IEC 17025、TOEIC 795
 - 研究室服務（AI Security Management Lab）：ISO 42001／27001／27701 認證輔導、政府補助（SBIR／SIIR／CITD）與產學合作
 - Email：ecliou@mail.mcut.edu.tw、ecl@aisml.org
-- 地址：24301 新北市泰山區工專路84號 明志科技大學 電機館 217 室（個人研究室）／131 室（AI 資安研究室）
+- 地址：24301 新北市泰山區工專路84號 明志科技大學 電機館 131 室
 
 ## 代表著作（Selected Publications）
 
