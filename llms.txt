@@ -10,7 +10,7 @@
 - 創業：詮隼科技、詮鼎科技、詮智網通 共同創辦人暨技術長（CTO）
 - 業界：帷斯股份有限公司 技術長（CTO）——專注前瞻電信架構、B5G 通訊技術與智慧應用方案；曾以此身份受邀至中原大學電資學院等大專院校進行「B5G 電信開放架構技術發展與應用情境」技術專題演講
 - 顧問：獵戶股份有限公司（OrionGo，獵戶科技）資深顧問
-- 研究專長：AI/LLM、6G/3GPP、AI-RAN/O-RAN、資通訊安全、SDN/虛擬化、創新創業、GEO 生成式引擎優化
+- 研究專長：AI/LLM、6G/3GPP、AI-RAN/O-RAN、資通訊安全、SDN/虛擬化、創新創業
 - 學術指標（Google Scholar）：總被引用約 183 次、h-index 6、i10-index 3
 - 榮譽：2023 Small Cell Forum Industry Awards 評審團特別獎（Judges' Choice）——與光寶科技、國立陽明交通大學團隊以 5G O-RAN 安全通訊方案獲獎
 - 專利：美國發明專利 8 件、台灣發明專利 12 件（代表專利：US 11,570,063 B2「Quality of Experience Optimization System and Method」，專利權人國立陽明交通大學，2023 領證；US 專利申請案 18/396,523「System for Information Security Management over 5G Open Architecture Infrastructures」，2025）
